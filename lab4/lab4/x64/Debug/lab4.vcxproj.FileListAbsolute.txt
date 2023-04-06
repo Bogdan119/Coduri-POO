@@ -1,0 +1,4 @@
+C:\Users\Bogdan\source\repos\lab4\lab4\x64\Debug\lab4.vcxproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\lab4\lab4\x64\Debug\lab4.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Bogdan\source\repos\lab4\lab4\x64\Debug\lab4.Form1.resources
+C:\Users\Bogdan\source\repos\lab4\lab4\x64\Debug\lab4.vcxproj.GenerateResource.cache
