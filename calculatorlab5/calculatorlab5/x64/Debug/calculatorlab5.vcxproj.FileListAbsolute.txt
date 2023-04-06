@@ -1,0 +1,4 @@
+C:\Users\Bogdan\source\repos\calculatorlab5\calculatorlab5\x64\Debug\calculatorlab5.vcxproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\calculatorlab5\calculatorlab5\x64\Debug\calculatorlab5.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Bogdan\source\repos\calculatorlab5\calculatorlab5\x64\Debug\calculatorlab5.Form1.resources
+C:\Users\Bogdan\source\repos\calculatorlab5\calculatorlab5\x64\Debug\calculatorlab5.vcxproj.GenerateResource.cache
