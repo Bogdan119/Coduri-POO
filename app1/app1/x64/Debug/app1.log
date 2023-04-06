@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  app1.cpp
+  AssemblyInfo.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  app1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  app1.vcxproj -> C:\Users\Bogdan\source\repos\app1\x64\Debug\app1.exe
